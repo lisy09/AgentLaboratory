@@ -14,3 +14,7 @@ state_saves/*
 __pycache__/*
 Figure*.png
 testrun.py
+
+# pdm
+.pdm-python
+__pypackages__/*
